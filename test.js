@@ -1,1 +1,0 @@
-console.log("测试的 JS文件");
